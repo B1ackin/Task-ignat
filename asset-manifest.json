@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Task-ignat/static/css/main.a8a42c10.chunk.css",
+    "main.js": "/Task-ignat/static/js/main.cc972241.chunk.js",
+    "main.js.map": "/Task-ignat/static/js/main.cc972241.chunk.js.map",
+    "runtime-main.js": "/Task-ignat/static/js/runtime-main.e3324afd.js",
+    "runtime-main.js.map": "/Task-ignat/static/js/runtime-main.e3324afd.js.map",
+    "static/js/2.58114d01.chunk.js": "/Task-ignat/static/js/2.58114d01.chunk.js",
+    "static/js/2.58114d01.chunk.js.map": "/Task-ignat/static/js/2.58114d01.chunk.js.map",
+    "index.html": "/Task-ignat/index.html",
+    "precache-manifest.15ded2efe242559ab8ca24a4edaafcf3.js": "/Task-ignat/precache-manifest.15ded2efe242559ab8ca24a4edaafcf3.js",
+    "service-worker.js": "/Task-ignat/service-worker.js",
+    "static/css/main.a8a42c10.chunk.css.map": "/Task-ignat/static/css/main.a8a42c10.chunk.css.map",
+    "static/js/2.58114d01.chunk.js.LICENSE.txt": "/Task-ignat/static/js/2.58114d01.chunk.js.LICENSE.txt",
+    "static/media/minion.jpg": "/Task-ignat/static/media/minion.b09f37e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3324afd.js",
+    "static/js/2.58114d01.chunk.js",
+    "static/css/main.a8a42c10.chunk.css",
+    "static/js/main.cc972241.chunk.js"
+  ]
+}
