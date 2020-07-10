@@ -1,0 +1,27 @@
+.telegram {
+    /*background: cornflowerblue;*/
+    position: relative;
+}
+
+.telegram img {
+    position: absolute;
+    bottom: 0;
+    width: 50px;
+    border-radius: 50%;
+    bottom: 0;
+    border: 1px solid grey;
+
+}
+
+.dialog {
+    width: 210px;
+    background: gold;
+    margin-left: 70px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px 10px 10px 0px;
+    overflow-wrap: break-word;
+}
+
+.row {
+    display: inline-block;
+}
