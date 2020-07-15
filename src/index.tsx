@@ -5,11 +5,14 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import Todolist from "./Todolist/Todolist";
 import AppTodolist from "./Todolist/AppTodolist";
+import Input from "./input/input";
+import AppInput from "./input/App-input";
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
     <AppTodolist />
+    <AppInput />
   </React.StrictMode>,
   document.getElementById('root')
 );
