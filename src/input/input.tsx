@@ -1,5 +1,6 @@
 import React, {ChangeEvent, KeyboardEvent, useState} from 'react';
 import {NewArray} from "./App-input";
+import './input.css';
 
 export type InputType = {
     message: Array<NewArray>
@@ -31,7 +32,7 @@ function Input(props: InputType) {
     }
 
     return (
-        <div>
+        <div className={"input"}>
             <input value={newMessage}
                    onChange={ChangeInput}
                    onKeyPress={onKeyPress}

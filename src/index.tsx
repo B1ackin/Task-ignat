@@ -7,12 +7,14 @@ import Todolist from "./Todolist/Todolist";
 import AppTodolist from "./Todolist/AppTodolist";
 import Input from "./input/input";
 import AppInput from "./input/App-input";
+import AllComponentn from "./common/AllComponent/AllComponent";
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
     <AppTodolist />
     <AppInput />
+    <AllComponentn />
   </React.StrictMode>,
   document.getElementById('root')
 );
