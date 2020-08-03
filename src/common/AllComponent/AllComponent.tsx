@@ -6,7 +6,7 @@ import {ButtonUniversal} from "../Button/Button";
 
 
 function AllComponentn() {
-    const [value, setValue] = useState<string>('')
+    const [value, setValue] = useState<string>('') // hook
 
     const onChangeInputHandler = (newValue: string) => {
         setValue(newValue)
