@@ -12,9 +12,6 @@ import AllComponentn from "./common/AllComponent/AllComponent";
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <AppTodolist />
-    <AppInput />
-    <AllComponentn />
   </React.StrictMode>,
   document.getElementById('root')
 );
