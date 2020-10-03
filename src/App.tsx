@@ -13,7 +13,7 @@ function App() {
             <div>
                 <NavBar/>
             <Route exact path="/prejunior" component={PreJunior}/>
-                <Redirect to="/prejunior " />
+            <Route exact path="/" render = {() => <Redirect to="/prejunior" />}/>
             <Route path="/junior" component={Junior}/>
             <Route path="/juniorplus" component={JuniorPlus}/>
             </div>
