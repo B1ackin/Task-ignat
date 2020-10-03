@@ -3,7 +3,8 @@ import {HashRouter, Route,Redirect} from "react-router-dom";
 import {PreJunior} from "./NavBar/PreJunior";
 import {Junior} from "./NavBar/Junior";
 import {JuniorPlus} from "./NavBar/JuniorPlus";
-import {NavBar} from "./NavBar/NavBar";
+import NavBar from "./NavBar/NavBar";
+
 
 
 function App() {
