@@ -35,7 +35,7 @@ function AllComponentn() {
             </div>
             <div>
                 <ButtonUniversal
-                    class={"button-help"}
+                    // class={"button-help"}
                     name={"Help Me"}
                 />
             </div>

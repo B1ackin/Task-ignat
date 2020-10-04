@@ -4,13 +4,14 @@ import classes from './Button.module.css'
 
 export type ButtonHelpType = {
     name: string
-    class: "button-help"
+    // class: "button-help"
+    onClick?: () => void
 }
 
 export function ButtonUniversal(props: ButtonHelpType) {
 
 
     return (
-        <button className={classes[props.class]}>{props.name}</button>
+        <button onClick={props.onClick}>{props.name}</button>
     )
 }
